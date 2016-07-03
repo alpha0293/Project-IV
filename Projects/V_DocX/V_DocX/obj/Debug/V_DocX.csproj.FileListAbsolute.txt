@@ -1,0 +1,8 @@
+c:\users\nguyenthachit\documents\visual studio 2015\Projects\V_DocX\V_DocX\bin\Debug\V_DocX.dll
+c:\users\nguyenthachit\documents\visual studio 2015\Projects\V_DocX\V_DocX\bin\Debug\V_DocX.pdb
+c:\users\nguyenthachit\documents\visual studio 2015\Projects\V_DocX\V_DocX\bin\Debug\DocumentFormat.OpenXml.dll
+c:\users\nguyenthachit\documents\visual studio 2015\Projects\V_DocX\V_DocX\bin\Debug\OpenXmlPowerTools.dll
+c:\users\nguyenthachit\documents\visual studio 2015\Projects\V_DocX\V_DocX\bin\Debug\System.IO.Packaging.dll
+c:\users\nguyenthachit\documents\visual studio 2015\Projects\V_DocX\V_DocX\obj\Debug\V_DocX.dll
+c:\users\nguyenthachit\documents\visual studio 2015\Projects\V_DocX\V_DocX\obj\Debug\V_DocX.pdb
+C:\Users\NguyenThachIT\Documents\Visual Studio 2015\Projects\V_DocX\V_DocX\obj\Debug\V_DocX.csprojResolveAssemblyReference.cache
